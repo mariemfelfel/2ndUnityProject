@@ -4170,7 +4170,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 909965c93197aef4291f60e4bd6df14c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  restartDelay: 0.5
+  restartDelay: 0.1
   gameOverUI: {fileID: 1052911358}
   tryAgainUI: {fileID: 1052911358}
 --- !u!4 &270360787
